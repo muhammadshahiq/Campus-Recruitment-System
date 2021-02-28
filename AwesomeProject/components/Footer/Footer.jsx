@@ -7,8 +7,8 @@ const Footer = () => {
                 </div>
                 <div className="footer-copyright grey darken-3">
                     <div className="container center-align">
-                        &copy; 2019 Campus Recruitment System <br />
-                        Created By Misbah Aslam Sabrani.
+                        &copy;Muhammad shahiq furqan 2021<br />
+                        
                     </div>
                 </div>
             </footer>
